@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31702.278
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1.csproj", "{8E8A2455-2882-4F31-AE59-CB37F6C68F94}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Choregraphie", "Choregraphie.csproj", "{8E8A2455-2882-4F31-AE59-CB37F6C68F94}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
